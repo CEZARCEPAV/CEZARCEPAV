@@ -1,0 +1,5 @@
+- 👋 Olá nome é @CEZARCEPAV
+- Meu Email de contato é augusto.silva.cezar@escola.pr.gv.br
+- Eu estou interessado em aprender a progamar novas lingaugens e imagens
+- Eu estou aprendendo a progamar recentemente a linguagem de JawaScript e Scratch
+-
